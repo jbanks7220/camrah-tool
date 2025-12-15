@@ -47,11 +47,19 @@ _Add a screenshot or GIF here to significantly improve portfolio impact._
 
 - **Python 3.9+** recommended
 
+## Clone the Repository
+
+```bash
+git clone https://github.com/jbanks7220/camrah-tool.git
+cd camrah-tool
+```
+
 ### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
+
 ## Run the Application
 
 ```bash
