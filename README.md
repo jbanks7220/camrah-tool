@@ -36,8 +36,9 @@ Built with a focus on **clean UI**, **correct data isolation**, and **stable mul
 
 ---
 
-## 📸 Screenshot (Optional)
-_Add a screenshot or GIF here to significantly improve portfolio impact._
+## 🎥Video Demo
+
+https://github.com/user-attachments/assets/dfb28f5d-91b7-4437-8e17-7495aafe6d01
 
 ---
 
