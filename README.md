@@ -38,7 +38,7 @@ Built with a focus on **clean UI**, **correct data isolation**, and **stable mul
 
 ## 🎥Video Demo
 
-https://github.com/user-attachments/assets/dfb28f5d-91b7-4437-8e17-7495aafe6d01
+https://github.com/user-attachments/assets/338926bf-d477-4791-b902-acaf182c5839
 
 ---
 
