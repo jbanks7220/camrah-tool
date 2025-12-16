@@ -144,8 +144,8 @@ Executable packaging (PyInstaller)
 
 Exportable results
 
-👤 Author
+## 👨‍💻 Author
 
-Jamir Banks
-Python Developer | OSINT & Visualization Projects
-GitHub: https://github.com/jbanks7220
+Built by Jamir Banks
+
+Navy veteran & former CTR | Cybersecurity hobbyist | Signals intelligence & secure comms background | Focused on defense, recon & red team skills
